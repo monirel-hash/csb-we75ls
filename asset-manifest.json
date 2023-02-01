@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://monirel-hash.github.io/csb-we75ls/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://monirel-hash.github.io/csb-we75ls/static/js/main.f0436fdc.chunk.js",
+    "main.js.map": "https://monirel-hash.github.io/csb-we75ls/static/js/main.f0436fdc.chunk.js.map",
+    "runtime-main.js": "https://monirel-hash.github.io/csb-we75ls/static/js/runtime-main.1ebeba50.js",
+    "runtime-main.js.map": "https://monirel-hash.github.io/csb-we75ls/static/js/runtime-main.1ebeba50.js.map",
+    "static/js/2.40740128.chunk.js": "https://monirel-hash.github.io/csb-we75ls/static/js/2.40740128.chunk.js",
+    "static/js/2.40740128.chunk.js.map": "https://monirel-hash.github.io/csb-we75ls/static/js/2.40740128.chunk.js.map",
+    "index.html": "https://monirel-hash.github.io/csb-we75ls/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://monirel-hash.github.io/csb-we75ls/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.40740128.chunk.js.LICENSE.txt": "https://monirel-hash.github.io/csb-we75ls/static/js/2.40740128.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ebeba50.js",
+    "static/js/2.40740128.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f0436fdc.chunk.js"
+  ]
+}
